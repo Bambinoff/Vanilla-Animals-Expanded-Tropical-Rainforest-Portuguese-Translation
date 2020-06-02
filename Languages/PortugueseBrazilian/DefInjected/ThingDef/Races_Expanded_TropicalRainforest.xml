@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Gorilla -->
+
+  <AEXP_Gorilla.label>gorila</AEXP_Gorilla.label>
+  <AEXP_Gorilla.description>Estes macacos herb&#237;voros terrestres são os maiores primatas vivos, e são os parentes vivos mais próximos dos humanos depois dos chimpanzés e bonobos. Como todos os grandes s&#237;mios, os braços do gorila são mais longos que as pernas. Os gorilas geralmente são surpreendentemente t&#237;midos, embora possam mostrar agressão ao bater no peito e atacar se seu grupo social estiver ameaçado.</AEXP_Gorilla.description>
+  <AEXP_Gorilla.tools.left_fist.label>punho esquerdo</AEXP_Gorilla.tools.left_fist.label>
+  <AEXP_Gorilla.tools.right_fist.label>punho direito</AEXP_Gorilla.tools.right_fist.label>
+  <AEXP_Gorilla.tools.head.label>cabeça</AEXP_Gorilla.tools.head.label>
+<AEXP_Gorilla_Meat.label>carne de primata</AEXP_Gorilla_Meat.label>
+  
+
+  <!-- Jaguar -->
+
+  <AEXP_Jaguar.label>onça-pintada</AEXP_Jaguar.label>
+  <AEXP_Jaguar.description>Uma grande espécie felina e o único membro existente da panthera nativa das Américas na velha terra. Este gato malhado se parece muito com o leopardo, mas geralmente é maior e mais resistente. A onça-pintada é um predador do topo da cadeia alimentar e gosta de nadar e em grande parte é um predador solitário, oportunista, perseguidor e emboscador.</AEXP_Jaguar.description>
+  <AEXP_Jaguar.tools.left_claw.label>garra esquerda</AEXP_Jaguar.tools.left_claw.label>
+  <AEXP_Jaguar.tools.right_claw.label>garra direita</AEXP_Jaguar.tools.right_claw.label>
+  <AEXP_Jaguar.tools.head.label>cabeça</AEXP_Jaguar.tools.head.label>
+
+
+  <!-- Lemur -->
+
+  <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
+  <AEXP_Lemur.description>Um pequeno primata, os lêmures são arbor&#237;colas e geralmente noturnos. Eles têm um focinho pontudo, olhos grandes e uma cauda longa. Embora sejam criaturas sociais, tradicionalmente são consideradas menos inteligentes do que outros primatas, uma vez que não exibem comportamentos de uso de ferramentas na natureza.</AEXP_Lemur.description>
+  <AEXP_Lemur.tools.left_fist.label>punho esquerdo</AEXP_Lemur.tools.left_fist.label>
+  <AEXP_Lemur.tools.right_fist.label>punho direito</AEXP_Lemur.tools.right_fist.label>
+  <AEXP_Lemur.tools.head.label>cabeça</AEXP_Lemur.tools.head.label>
+
+
+  <!-- Mandrill -->
+
+  <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
+  <AEXP_Mandrill.description>Mandris são um dos maiores de todos os macacos. São primatas t&#237;midos e reclusos que vivem apenas em florestas tropicais. Mandril são extremamente coloridos, talvez mais do que qualquer outro mam&#237;fero. Eles são facilmente identificáveis por sua pele azul e vermelha em seus rostos e suas nádegas coloridas.</AEXP_Mandrill.description>
+  <AEXP_Mandrill.tools.left_fist.label>punho esquerdo</AEXP_Mandrill.tools.left_fist.label>
+  <AEXP_Mandrill.tools.right_fist.label>punho direito</AEXP_Mandrill.tools.right_fist.label>
+  <AEXP_Mandrill.tools.head.label>cabeça</AEXP_Mandrill.tools.head.label>
+  
+
+  <!-- Tapir -->
+
+  <AEXP_Tapir.label>anta</AEXP_Tapir.label>
+  <AEXP_Tapir.description>Um mam&#237;fero grande e herb&#237;voro, de forma semelhante a um porco, com um focinho alongado lembrando uma pequena tromba, antas habitam regiões de floresta e selva.</AEXP_Tapir.description>
+  <AEXP_Tapir.tools.head.label>cabeça</AEXP_Tapir.tools.head.label>
+
+
+  <!-- Tiger -->
+
+  <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+  <AEXP_Tiger.description>O tigre é a maior espécie entre os grandes felinos. É mais reconhec&#237;vel por suas listras verticais escuras em pelo laranja avermelhado com uma parte inferior mais clara. É um predador alfa, territorial e geralmente solitário. Na natureza, os tigres se alimentam principalmente de mam&#237;feros grandes e médios.</AEXP_Tiger.description>
+  <AEXP_Tiger.tools.left_claw.label>garra esquerda</AEXP_Tiger.tools.left_claw.label>
+  <AEXP_Tiger.tools.right_claw.label>garra direita</AEXP_Tiger.tools.right_claw.label>
+  <AEXP_Tiger.tools.head.label>cabeça</AEXP_Tiger.tools.head.label>
+  
+
+</LanguageData>

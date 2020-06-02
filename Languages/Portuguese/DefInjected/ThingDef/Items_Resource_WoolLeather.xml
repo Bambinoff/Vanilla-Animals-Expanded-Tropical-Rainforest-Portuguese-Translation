@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tiger leather -->
+
+  <AEXP_Leather_Tiger.label>pele de tigre</AEXP_Leather_Tiger.label>
+  <AEXP_Leather_Tiger.description>Os tigres costumavam ser alvos de caçadores na velha terra devido &#224;s peles luxuosas, fato que quase os levou &#224; extinção. Com a quase ilegalidade, a pele de tigre é visto como outra mercadoria exótica ao comércio entre assentamentos.</AEXP_Leather_Tiger.description>
+  <AEXP_Leather_Tiger.stuffProps.stuffAdjective>pele de tigre</AEXP_Leather_Tiger.stuffProps.stuffAdjective>
+
+</LanguageData>
